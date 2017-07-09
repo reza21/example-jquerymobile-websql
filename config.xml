@@ -6,10 +6,10 @@
         id        = "com.nemuide.mobile"
         version   = "1.0.0">
 
-    <name>Mobile App</name>
+    <name>Example DB</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Contoh penggunaan database websql.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
